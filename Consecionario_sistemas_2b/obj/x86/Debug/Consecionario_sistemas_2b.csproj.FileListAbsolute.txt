@@ -16,3 +16,4 @@ C:\Users\Victoria Cerega Jara\Desktop\Git\concesionaria_2b\Consecionario_sistema
 C:\Users\Victoria Cerega Jara\Desktop\Git\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.FrmAutos.resources
 C:\Users\Victoria Cerega Jara\Desktop\Git\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Properties.Resources.resources
 C:\Users\Victoria Cerega Jara\Desktop\Git\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csproj.GenerateResource.Cache
+C:\Programacion2\seminario de programacion\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Frm_autos.resources
