@@ -29,17 +29,17 @@ namespace Consecionario_sistemas_2b
 
         public void FnMostraFormulario()
         {
-            if (pnl_contenedor.Controls.Count > 0)
-            {
-                pnl_contenedor.Controls.RemoveAt(0);
-            }
+            //if (pnl_contenedor.Controls.Count > 0)
+            //{
+            //    pnl_contenedor.Controls.RemoveAt(0);
+            //}
 
-            FrmAutos frm = new FrmAutos();
-            frm.TopLevel = false;
-            frm.Dock = DockStyle.Fill;
-            pnl_contenedor.Controls.Add(frm);
-            frm.BringToFront();
-            frm.FormClosed += FnCerrarFormulario;
+            //FrmAutos frm = new FrmAutos();
+            //frm.TopLevel = false;
+            //frm.Dock = DockStyle.Fill;
+            //pnl_contenedor.Controls.Add(frm);
+            //frm.BringToFront();
+            //frm.FormClosed += FnCerrarFormulario;
         }
         //===============
         private void btn_autos_Click(object sender, EventArgs e)

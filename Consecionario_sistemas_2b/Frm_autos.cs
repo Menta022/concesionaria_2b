@@ -9,11 +9,17 @@ using System.Windows.Forms;
 
 namespace Consecionario_sistemas_2b
 {
-    public partial class FrmAutos : Form
+    public partial class Frm_autos : Form
     {
-        public FrmAutos()
+        public Frm_autos()
         {
             InitializeComponent();
         }
+
+        private void Frm_autos_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
