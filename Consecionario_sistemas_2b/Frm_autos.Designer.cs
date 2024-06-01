@@ -42,14 +42,15 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label8 = new System.Windows.Forms.Label();
             this.Patente = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Año = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Tipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Color = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Marca = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Modelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label8 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -197,17 +198,6 @@
             this.dataGridView1.Size = new System.Drawing.Size(607, 223);
             this.dataGridView1.TabIndex = 11;
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(42, 271);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(75, 24);
-            this.label8.TabIndex = 0;
-            this.label8.Text = "Coches";
-            // 
             // Patente
             // 
             this.Patente.HeaderText = "Column1";
@@ -238,6 +228,17 @@
             this.Modelo.HeaderText = "Column1";
             this.Modelo.Name = "Modelo";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Location = new System.Drawing.Point(42, 271);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(75, 24);
+            this.label8.TabIndex = 0;
+            this.label8.Text = "Coches";
+            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.White;
@@ -249,12 +250,22 @@
             this.button1.Text = "Cargar";
             this.button1.UseVisualStyleBackColor = false;
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(652, 258);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(106, 37);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // Frm_autos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(60)))));
             this.ClientSize = new System.Drawing.Size(845, 577);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.comboBox2);
@@ -305,5 +316,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Modelo;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
