@@ -30,3 +30,10 @@ C:\Users\haseo\Desktop\conceisonaria\concesionaria_2b\Consecionario_sistemas_2b\
 C:\Users\haseo\Desktop\conceisonaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Properties.Resources.resources
 C:\Users\haseo\Desktop\conceisonaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csproj.GenerateResource.Cache
 >>>>>>> 66cd49daaf4f5b54b4df4d36f846a8a53fc1ecc7
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\bin\Debug\Consecionario_sistemas_2b.exe
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\bin\Debug\Consecionario_sistemas_2b.pdb
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csprojResolveAssemblyReference.cache
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Form1.resources
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Frm_autos.resources
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Properties.Resources.resources
+C:\Concesionaria\concesionaria_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csproj.GenerateResource.Cache
